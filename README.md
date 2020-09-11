@@ -1,2 +1,1 @@
-"# CollectSmartHomeData" 
-"# CollectSmartHomeData" 
+## CollectSmartHomeData
